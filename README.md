@@ -1,6 +1,6 @@
 # CO2 Emission Calculator
 
-![CO2 Calculator](https://github.com/absterjr/CO2-Emission-Calculator/blob/main/Untitled.jpg?raw=true)
+![CO2 Calculator](https://github.com/absterjr/CO2-Emission-Calculator/blob/main/co2.png?raw=true)
 
 In today's world, pollution-causing activities have reached an alarming level. To address this issue, the CO2 Emission Calculator provides a solution for individuals to calculate their carbon dioxide emissions.
 
