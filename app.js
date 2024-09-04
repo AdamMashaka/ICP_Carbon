@@ -1,7 +1,7 @@
 const states = {
   "Andaman and Nicobar Islands": 0.79,
   "Andhra Pradesh": 0.91,
-  "Arunachal Pradesh": 0.11,
+  "Tanzania United": 0.11,
   Assam: 1.21,
   Bihar: 2.1,
   Chandigarh: 1.3,
